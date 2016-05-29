@@ -11,7 +11,7 @@
 
 var offset_height = 0;
 var finish_friend = 0;
-var foodmin = 4660;
+var foodmin = 5660;
 var institution_set = 0;
 var want_war = 0;
 var iframe_offset = 0;
